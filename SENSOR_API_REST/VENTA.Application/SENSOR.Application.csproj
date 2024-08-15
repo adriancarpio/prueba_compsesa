@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SENSOR.Domain.Interface\SENSOR.Domain.Interface.csproj" />
+    <ProjectReference Include="..\SENSOR.Dto\SENSOR.Dto.csproj" />
+    <ProjectReference Include="..\SENSOR.Persistence.EFCore\SENSOR.Persistence.EFCore.csproj" />
+  </ItemGroup>
+
+</Project>

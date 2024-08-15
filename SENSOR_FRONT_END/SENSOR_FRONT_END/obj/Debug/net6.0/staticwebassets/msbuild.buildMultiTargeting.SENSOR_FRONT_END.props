@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SENSOR_FRONT_END.props" />
+</Project>

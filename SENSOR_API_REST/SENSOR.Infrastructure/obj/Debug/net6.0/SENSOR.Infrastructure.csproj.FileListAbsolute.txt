@@ -1,0 +1,38 @@
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Infrastructure.deps.json
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Infrastructure.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Infrastructure.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Domain.Interface.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Persistence.EFCore.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Persistence.EFCore.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Domain.Interface.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.csproj.AssemblyReference.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.AssemblyInfoInputs.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.AssemblyInfo.cs
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.csproj.CoreCompileInputs.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.I.A5EDC3FE.Up2Date
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\refint\SENSOR.Infrastructure.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\ref\SENSOR.Infrastructure.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Infrastructure.deps.json
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Infrastructure.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Infrastructure.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Domain.Interface.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\bin\Debug\net6.0\SENSOR.Domain.Interface.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.I.A5EDC3FE.Up2Date
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\refint\SENSOR.Infrastructure.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\SENSOR.Infrastructure.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Infrastructure\obj\Debug\net6.0\ref\SENSOR.Infrastructure.dll

@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Nombre del Proyecto</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav>
+            <!-- Aquí va la barra de navegación si la tienes -->
+        </nav>
+    </header>
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    <footer>
+        <p>&copy; @DateTime.Now.Year - Prueba tecnica</p>
+    </footer>
+
+    <!-- Aquí colocas la referencia a los scripts y la sección de scripts -->
+    <script src="~/lib/jquery/jquery.js"></script>
+    <script src="~/js/site.js"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

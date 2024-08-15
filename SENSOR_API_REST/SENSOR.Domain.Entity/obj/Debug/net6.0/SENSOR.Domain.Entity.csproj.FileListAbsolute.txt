@@ -1,0 +1,34 @@
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Domain.Entity\bin\Debug\net6.0\SENSOR.Domain.Entity.deps.json
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Domain.Entity\bin\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Domain.Entity\bin\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.AssemblyInfoInputs.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.AssemblyInfo.cs
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\refint\SENSOR.Domain.Entity.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\ref\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Domain.Entity\bin\Debug\net6.0\SENSOR.Domain.Entity.deps.json
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Domain.Entity\bin\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Domain.Entity\bin\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\refint\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\ref\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\bin\Debug\net6.0\SENSOR.Domain.Entity.deps.json
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\bin\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\bin\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.sourcelink.json
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\refint\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Domain.Entity\obj\Debug\net6.0\ref\SENSOR.Domain.Entity.dll

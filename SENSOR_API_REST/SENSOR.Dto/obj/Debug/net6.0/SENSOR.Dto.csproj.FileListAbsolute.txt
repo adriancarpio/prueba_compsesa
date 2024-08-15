@@ -1,0 +1,34 @@
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Dto\bin\Debug\net6.0\SENSOR.Dto.deps.json
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Dto\bin\Debug\net6.0\SENSOR.Dto.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Dto\bin\Debug\net6.0\SENSOR.Dto.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.AssemblyInfoInputs.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.AssemblyInfo.cs
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.csproj.CoreCompileInputs.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\refint\SENSOR.Dto.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\ref\SENSOR.Dto.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Dto\bin\Debug\net6.0\SENSOR.Dto.deps.json
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Dto\bin\Debug\net6.0\SENSOR.Dto.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Dto\bin\Debug\net6.0\SENSOR.Dto.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\refint\SENSOR.Dto.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\ref\SENSOR.Dto.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\bin\Debug\net6.0\SENSOR.Dto.deps.json
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\bin\Debug\net6.0\SENSOR.Dto.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\bin\Debug\net6.0\SENSOR.Dto.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.sourcelink.json
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\refint\SENSOR.Dto.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\SENSOR.Dto.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Dto\obj\Debug\net6.0\ref\SENSOR.Dto.dll

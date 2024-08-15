@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMH2NKR+o+o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carpiom\\source\\repos\\repo\\SENSOR_FRONT_END\\SENSOR_FRONT_END\\SENSOR_FRONT_END.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carpiom\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

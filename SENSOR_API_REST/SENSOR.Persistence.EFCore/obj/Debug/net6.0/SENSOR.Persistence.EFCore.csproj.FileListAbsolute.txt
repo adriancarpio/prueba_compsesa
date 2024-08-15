@@ -1,0 +1,52 @@
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Persistence.EFCore.deps.json
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Persistence.EFCore.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Persistence.EFCore.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Interface.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Interface.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.csproj.AssemblyReference.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.AssemblyInfoInputs.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.AssemblyInfo.cs
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.csproj.CoreCompileInputs.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.P.3ED55B57.Up2Date
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\refint\SENSOR.Persistence.EFCore.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\ref\SENSOR.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Persistence.EFCore.deps.json
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Interface.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Interface.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.P.3ED55B57.Up2Date
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\refint\SENSOR.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\ref\SENSOR.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Persistence.EFCore.deps.json
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Interface.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Interface.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\bin\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.sourcelink.json
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.P.3ED55B57.Up2Date
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\refint\SENSOR.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\SENSOR.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\SENSOR.Persistence.EFCore\obj\Debug\net6.0\ref\SENSOR.Persistence.EFCore.dll

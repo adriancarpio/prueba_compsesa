@@ -1,0 +1,64 @@
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Application.deps.json
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Application.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Application.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Interface.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Dto.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Persistence.EFCore.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Interface.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Dto.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Persistence.EFCore.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.csproj.AssemblyReference.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.AssemblyInfoInputs.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.AssemblyInfo.cs
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.csproj.CoreCompileInputs.cache
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.A.8B1A5406.Up2Date
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\refint\SENSOR.Application.dll
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.pdb
+C:\01 - Proyectos\Otros\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\ref\SENSOR.Application.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Application.deps.json
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Application.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Application.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Interface.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Dto.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Interface.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Dto.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.A.8B1A5406.Up2Date
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\refint\SENSOR.Application.dll
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.pdb
+C:\Users\carpiom\source\repos\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\ref\SENSOR.Application.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Application.deps.json
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Application.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Application.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Entity.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Interface.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Dto.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Persistence.EFCore.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Interface.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Dto.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Persistence.EFCore.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\bin\Debug\net6.0\SENSOR.Domain.Entity.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.sourcelink.json
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.A.8B1A5406.Up2Date
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\refint\SENSOR.Application.dll
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\SENSOR.Application.pdb
+C:\Users\carpiom\source\repos\repo\SENSOR_API_REST\VENTA.Application\obj\Debug\net6.0\ref\SENSOR.Application.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SENSOR_FRONT_END.props" />
+</Project>

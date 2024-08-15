@@ -1,0 +1,150 @@
+﻿@using SENSOR.Dto;
+@using System.Text.Json;
+@{
+    ViewData["Title"] = "Dashboard";
+}
+<h2>Dashboard</h2>
+
+<!-- Filtro de Fechas -->
+<form method="get" action="@Url.Action("Index", "Home")">
+    <label for="fechaDesde">Fecha Desde:</label>
+    <input type="date" name="fechaDesde" required />
+
+    <label for="fechaHasta">Fecha Hasta:</label>
+    <input type="date" name="fechaHasta" required />
+    <label for="modo">Modo:</label>
+    <select name="modo">
+        <option value="day" selected>Day</option>
+        <option value="month">Month</option>
+    </select>
+    <button type="submit">Aplicar Filtros</button>
+</form>
+
+<hr />
+
+<div>
+    <canvas id="tempChart" style="border: 1px solid black;"></canvas>
+    <canvas id="humidityChart" style="border: 1px solid black;"></canvas>
+    <canvas id="radiationChart" style="border: 1px solid black;"></canvas>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Obtén los datos desde ViewData
+            var deviceDates = @Html.Raw(Json.Serialize(Model.DeviceDates));
+            var temperatureData = JSON.parse(@Html.Raw(Json.Serialize(Model.TemperatureData)));
+            var humidityData = JSON.parse(@Html.Raw(Json.Serialize(Model.HumidityData)));
+            var radiationData = JSON.parse(@Html.Raw(Json.Serialize(Model.RadiationData)));
+
+            console.log("Device Dates:", deviceDates);
+            console.log("Temperature Data:", temperatureData);
+            console.log("Humidity Data:", humidityData);
+            console.log("Radiation Data:", radiationData);
+
+            function createDataset(label, data, borderColor) {
+                return {
+                    label: label,
+                    data: data,
+                    borderColor: borderColor,
+                    fill: false
+                };
+            }
+
+            var tempChartData = {
+                labels: deviceDates,
+                datasets: [
+                    createDataset('Temperatura Promedio', temperatureData.map(t => t.Avg), 'rgba(255, 99, 132, 1)'),
+                    createDataset('Temperatura Mínima', temperatureData.map(t => t.Min), 'rgba(75, 192, 192, 1)'),
+                    createDataset('Temperatura Máxima', temperatureData.map(t => t.Max), 'rgba(255, 159, 64, 1)')
+                ]
+            };
+
+            var humidityChartData = {
+                labels: deviceDates,
+                datasets: [
+                    createDataset('Humedad Promedio', humidityData.map(h => h.Avg), 'rgba(54, 162, 235, 1)'),
+                    createDataset('Humedad Mínima', humidityData.map(h => h.Min), 'rgba(153, 102, 255, 1)'),
+                    createDataset('Humedad Máxima', humidityData.map(h => h.Max), 'rgba(255, 206, 86, 1)')
+                ]
+            };
+
+            var radiationChartData = {
+                labels: deviceDates,
+                datasets: [
+                    createDataset('Radiación Promedio', radiationData.map(r => r.Avg), 'rgba(255, 205, 86, 1)'),
+                    createDataset('Radiación Mínima', radiationData.map(r => r.Min), 'rgba(201, 203, 207, 1)'),
+                    createDataset('Radiación Máxima', radiationData.map(r => r.Max), 'rgba(75, 192, 192, 1)')
+                ]
+            };
+
+            // Crear gráficos
+            new Chart(document.getElementById('tempChart').getContext('2d'), {
+                type: 'line',
+                data: tempChartData,
+                options: {
+                    responsive: true,
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Fecha'
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Temperatura (°C)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            new Chart(document.getElementById('humidityChart').getContext('2d'), {
+                type: 'line',
+                data: humidityChartData,
+                options: {
+                    responsive: true,
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Fecha'
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Humedad (%)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            new Chart(document.getElementById('radiationChart').getContext('2d'), {
+                type: 'line',
+                data: radiationChartData,
+                options: {
+                    responsive: true,
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Fecha'
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Radiación (W/m²)'
+                            }
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+}

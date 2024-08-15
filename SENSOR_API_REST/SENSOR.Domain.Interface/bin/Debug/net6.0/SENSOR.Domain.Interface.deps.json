@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SENSOR.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "SENSOR.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "SENSOR.Domain.Interface.dll": {}
+        }
+      },
+      "SENSOR.Domain.Entity/1.0.0": {
+        "runtime": {
+          "SENSOR.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SENSOR.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SENSOR.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
